@@ -15,16 +15,21 @@ Explore the source code organized into folders:
 
 [📥 Download Final Application (EXE)](https://drive.google.com/drive/folders/1zWnm5li828YyGJb3oyqLgrtz-bRy1pLF?usp=sharing)
 
-Download and test the final application in EXE format, which allows for hazard detection using provided video data.
+Download and test the final application in EXE format. Upon downloading and extracting the contents, you can run the application "Hazard_Detector.exe" and perform testing using the provided video data.
 
 ## Testing Instructions
 
 1. Download the final application in EXE format.
-2. Open the application.
-3. Upload a dash camera video capturing road conditions for testing.
+2. Extract the contents of the zip file to access the executable application "Hazard_Detector.exe".
+3. Open the application.
+4. Upload the video that you wish to test the application with.
 
 **Note:**
 - Use a video captured from a dash camera under the front mirror in a car for valid testing data.
+
+## Demo
+
+Watch the project in action on our [YouTube Demo](https://youtu.be/26wUIRHhjLc) to see how the final application performs in real-world scenarios.
 
 ---
 
